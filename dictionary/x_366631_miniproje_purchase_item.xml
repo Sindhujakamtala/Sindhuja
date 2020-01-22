@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_366631_miniproje_kgs_training_module" label="purchase item" max_length="40" name="x_366631_miniproje_purchase_item" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="tax" max_length="40" name="u_choice_10" type="string">
+            <choice>
+                <element inactive_on_update="false" label="yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="no" sequence="1" value="no"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="state" max_length="40" name="u_choice_8" type="string">
+            <choice>
+                <element inactive_on_update="false" label="open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="pending" sequence="1" value="pending"/>
+                <element inactive_on_update="false" label="closed" sequence="2" value="closed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="start date" mandatory="true" max_length="40" name="u_glide_date_6" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="end date" mandatory="true" max_length="40" name="u_glide_date_7" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="submitted by" mandatory="true" max_length="32" name="u_reference_2" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="assignment group" mandatory="true" max_length="32" name="u_reference_4" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="assigned to" max_length="32" name="u_reference_5" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="quantity" mandatory="true" max_length="40" name="u_string_11" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="unit price" mandatory="true" max_length="40" name="u_string_12" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="total cost" max_length="40" name="u_string_13" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="tax amount" max_length="40" name="u_string_14" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="tax percentage" max_length="40" name="u_string_15" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="order item" max_length="40" name="u_string_9" type="string"/>
+        <index name="index">
+            <element name="u_reference_4"/>
+        </index>
+        <index name="index2">
+            <element name="u_reference_5"/>
+        </index>
+        <index name="index3">
+            <element name="u_reference_2"/>
+        </index>
+    </element>
+</database>

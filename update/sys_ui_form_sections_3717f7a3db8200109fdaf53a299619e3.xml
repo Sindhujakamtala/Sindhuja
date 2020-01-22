@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3717f7a3db8200109fdaf53a299619e3" sys_domain="global" table="x_366631_miniproje_kgs_training_module" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-06 12:02:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f17f7a3db8200109fdaf53a299619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366631_miniproje_kgs_training_module" name="x_366631_miniproje_kgs_training_module" sys_domain="global" view="Default view">3717f7a3db8200109fdaf53a299619e3</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_kgs_training_module" sys_domain="global" view="Default view">182d5babdb0200109fdaf53a299619a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-06 12:02:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-06 12:02:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b17f7a3db8200109fdaf53a299619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366631_miniproje_kgs_training_module" name="x_366631_miniproje_kgs_training_module" sys_domain="global" view="Default view">3717f7a3db8200109fdaf53a299619e3</sys_ui_form>
+            <sys_ui_section caption="date" display_value="date" name="x_366631_miniproje_kgs_training_module" sys_domain="global" view="Default view">3317f7a3db8200109fdaf53a299619e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-06 12:02:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-06 12:02:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3317f7a3db8200109fdaf53a299619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366631_miniproje_kgs_training_module" name="x_366631_miniproje_kgs_training_module" sys_domain="global" view="Default view">3717f7a3db8200109fdaf53a299619e3</sys_ui_form>
+            <sys_ui_section caption="cost section" display_value="cost section" name="x_366631_miniproje_kgs_training_module" sys_domain="global" view="Default view">bb17f7a3db8200109fdaf53a299619e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-06 12:02:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-06 12:02:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b717f7a3db8200109fdaf53a299619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366631_miniproje_kgs_training_module" name="x_366631_miniproje_kgs_training_module" sys_domain="global" view="Default view">3717f7a3db8200109fdaf53a299619e3</sys_ui_form>
+            <sys_ui_section caption="details" display_value="details" name="x_366631_miniproje_kgs_training_module" sys_domain="global" view="Default view">3717f7a3db8200109fdaf53a299619e2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-06 12:02:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_366631_miniproje_kgs_training_module</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-06 12:02:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3717f7a3db8200109fdaf53a299619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366631_miniproje_kgs_training_module</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Miniproject" source="x_366631_miniproje">d3889fa7db0200109fdaf53a29961918</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Miniproject">d3889fa7db0200109fdaf53a29961918</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3717f7a3db8200109fdaf53a299619e3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-06 12:02:28</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

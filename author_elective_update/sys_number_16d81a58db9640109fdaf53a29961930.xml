@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_366631_miniproje_badminton">x_366631_miniproje_badminton</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>BAD</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-08 13:06:01</sys_created_on>
+        <sys_id>16d81a58db9640109fdaf53a29961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BAD</sys_name>
+        <sys_package display_value="Miniproject" source="x_366631_miniproje">d3889fa7db0200109fdaf53a29961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Miniproject">d3889fa7db0200109fdaf53a29961918</sys_scope>
+        <sys_update_name>sys_number_16d81a58db9640109fdaf53a29961930</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-08 13:06:01</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Miniproject">d3889fa7db0200109fdaf53a29961918</application>
+        <file_path/>
+        <instance_id>a5c96148db7f174c536ad5b0cf961956</instance_id>
+        <instance_name>dev68665</instance_name>
+        <name>sys_number_16d81a58db9640109fdaf53a29961930</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_366631_miniproje_badminton">x_366631_miniproje_badminton</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>BAD</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-08 13:06:01</sys_created_on><sys_id>16d81a58db9640109fdaf53a29961930</sys_id><sys_mod_count>0</sys_mod_count><sys_name>BAD</sys_name><sys_package display_value="Miniproject" source="x_366631_miniproje">d3889fa7db0200109fdaf53a29961918</sys_package><sys_policy/><sys_scope display_value="Miniproject">d3889fa7db0200109fdaf53a29961918</sys_scope><sys_update_name>sys_number_16d81a58db9640109fdaf53a29961930</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-08 13:06:01</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>1294700045</payload_hash>
+        <record_name>BAD</record_name>
+        <reverted_from/>
+        <source>d7889fa7db0200109fdaf53a2996191a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-08 13:06:01</sys_created_on>
+        <sys_id>12d81a58db9640109fdaf53a29961983</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f85430c720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-08 13:06:01</sys_updated_on>
+        <type>Number</type>
+        <update_guid>5ad81a58179640102a130662fd096582</update_guid>
+        <update_guid_history>5ad81a58179640102a130662fd096582:1294700045</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-08 13:12:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>120edb6d244a4930910240875a740a11</sys_id>
+        <sys_metadata>16d81a58db9640109fdaf53a29961930</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BAD</sys_name>
+        <sys_package display_value="Miniproject" source="x_366631_miniproje">d3889fa7db0200109fdaf53a29961918</sys_package>
+        <sys_parent display_value="">cab89a18db9640109fdaf53a29961912</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Miniproject">d3889fa7db0200109fdaf53a29961918</sys_scope>
+        <sys_scope_delete display_value="">65d6f3b6908148c084bdeed17af64900</sys_scope_delete>
+        <sys_update_name>sys_number_16d81a58db9640109fdaf53a29961930</sys_update_name>
+        <sys_update_version display_value="sys_number_16d81a58db9640109fdaf53a29961930">12d81a58db9640109fdaf53a29961983</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-08 13:12:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="catalog1" max_length="40" name="x_366631_miniproje_catalog1" type="collection">
+        <element label="on behalf of" max_length="100" name="on_behalf_of" type="boolean"/>
+        <element choice="1" label="prefer type" max_length="100" name="prefer_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="i7 and 8gb RAM" sequence="0" value="i7 and 8gb RAM"/>
+                <element inactive_on_update="false" label="i7 and 4gb RAM" sequence="1" value="i7 and 4gb ram"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element label="Reference" mandatory="true" max_length="32" name="reference" reference="sys_user" type="reference"/>
+        <element label="Requested user" mandatory="true" max_length="32" name="requested_user" reference="sys_user" type="reference"/>
+    </element>
+</database>

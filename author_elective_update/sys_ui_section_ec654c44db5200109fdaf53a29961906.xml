@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="ec654c44db5200109fdaf53a29961906" sys_domain="global" table="x_366631_miniproje_purchase_item" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_4</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-07 07:43:14</sys_created_on>
+            <sys_id>2c654c44db5200109fdaf53a29961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-07 07:43:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_list_1</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-07 07:43:14</sys_created_on>
+            <sys_id>ac654c44db5200109fdaf53a29961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-07 07:43:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_time_6</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-07 07:43:14</sys_created_on>
+            <sys_id>20654c44db5200109fdaf53a29961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-07 07:43:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_8</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-07 07:43:14</sys_created_on>
+            <sys_id>a0654c44db5200109fdaf53a29961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-07 07:43:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-07 07:43:14</sys_created_on>
+            <sys_id>24654c44db5200109fdaf53a29961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-07 07:43:14</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_2</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-07 07:43:14</sys_created_on>
+            <sys_id>a4654c44db5200109fdaf53a29961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-07 07:43:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_7</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-07 07:43:14</sys_created_on>
+            <sys_id>28654c44db5200109fdaf53a29961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-07 07:43:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_366631_miniproje_purchase_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-07 07:43:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec654c44db5200109fdaf53a29961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366631_miniproje_purchase_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Miniproject" source="x_366631_miniproje">d3889fa7db0200109fdaf53a29961918</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Miniproject">d3889fa7db0200109fdaf53a29961918</sys_scope>
+            <sys_update_name>sys_ui_section_ec654c44db5200109fdaf53a29961906</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-07 07:43:14</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Miniproject">d3889fa7db0200109fdaf53a29961918</application>
+        <file_path/>
+        <instance_id>a5c96148db7f174c536ad5b0cf961956</instance_id>
+        <instance_name>dev68665</instance_name>
+        <name>sys_ui_section_ec654c44db5200109fdaf53a29961906</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="ec654c44db5200109fdaf53a29961906" sys_domain="global" table="x_366631_miniproje_purchase_item" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_string_4</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-07 07:43:14</sys_created_on><sys_id>2c654c44db5200109fdaf53a29961907</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-07 07:43:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_glide_list_1</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-07 07:43:14</sys_created_on><sys_id>ac654c44db5200109fdaf53a29961907</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-07 07:43:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_glide_time_6</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-07 07:43:14</sys_created_on><sys_id>20654c44db5200109fdaf53a29961908</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-07 07:43:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_string_8</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-07 07:43:14</sys_created_on><sys_id>a0654c44db5200109fdaf53a29961908</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-07 07:43:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-07 07:43:14</sys_created_on><sys_id>24654c44db5200109fdaf53a29961908</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-07 07:43:14</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_string_2</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-07 07:43:14</sys_created_on><sys_id>a4654c44db5200109fdaf53a29961908</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-07 07:43:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_string_7</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-07 07:43:14</sys_created_on><sys_id>28654c44db5200109fdaf53a29961908</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_366631_miniproje_purchase_item" sys_domain="global" view="Default view">ec654c44db5200109fdaf53a29961906</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-07 07:43:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_366631_miniproje_purchase_item</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-07 07:43:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ec654c44db5200109fdaf53a29961906</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_366631_miniproje_purchase_item</sys_name><sys_overrides/><sys_package display_value="Miniproject" source="x_366631_miniproje">d3889fa7db0200109fdaf53a29961918</sys_package><sys_policy/><sys_scope display_value="Miniproject">d3889fa7db0200109fdaf53a29961918</sys_scope><sys_update_name>sys_ui_section_ec654c44db5200109fdaf53a29961906</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-07 07:43:14</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1030848376</payload_hash>
+        <record_name>purchase item</record_name>
+        <reverted_from/>
+        <source>d7889fa7db0200109fdaf53a2996191a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-07 07:43:14</sys_created_on>
+        <sys_id>24654c44db5200109fdaf53a2996190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f7ef52d510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-07 07:43:14</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>ac654c446e5200100d5dde0020f46e09</update_guid>
+        <update_guid_history>ac654c446e5200100d5dde0020f46e09:-1030848376</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-07 07:56:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0a0647c52f944a78813b086ea9225869</sys_id>
+        <sys_metadata>ec654c44db5200109fdaf53a29961906</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_366631_miniproje_purchase_item</sys_name>
+        <sys_package display_value="Miniproject" source="x_366631_miniproje">d3889fa7db0200109fdaf53a29961918</sys_package>
+        <sys_parent display_value="purchase item">07f48cccdb1200109fdaf53a299619e8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Miniproject">d3889fa7db0200109fdaf53a29961918</sys_scope>
+        <sys_scope_delete display_value="">65d6f3b6908148c084bdeed17af64900</sys_scope_delete>
+        <sys_update_name>sys_ui_section_ec654c44db5200109fdaf53a29961906</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_ec654c44db5200109fdaf53a29961906">24654c44db5200109fdaf53a2996190a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-07 07:56:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
